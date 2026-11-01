@@ -1,4 +1,4 @@
-# CRUD Node.js API
+# CRUD Node, Express, and MongoDB API
 
 A lightweight Express + MongoDB REST API for user registration, admin authentication, and CRUD operations.
 
